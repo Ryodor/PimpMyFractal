@@ -1,0 +1,10 @@
+body
+{
+    background-image: url(img/187629.jpg);
+}
+
+.text
+{
+    background-color : white;
+    width: 30%;
+}
